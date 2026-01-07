@@ -22,3 +22,9 @@ z = float(3) # which will be 3.0
 x = 5
 print(type(x))
 ```
+
+# Single / Double Quotes
+- Single: ```x = 'John"``` = Double: ```x = "John"```
+
+# Case-Sensitive
+> Variable names are case-sensitive ``` a = 4 ``` ≠ ```"Sally"```

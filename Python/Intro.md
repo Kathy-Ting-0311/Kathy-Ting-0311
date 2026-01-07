@@ -1,4 +1,4 @@
-## What is Python
+# What is Python
 
 - Created by <i>Guido van Rossum</i>
 
@@ -8,3 +8,5 @@ Used for:
 * Mathematics
 * Sysyem scripting
 
+# The Application of Python
+> Python as a easy learn program language for 
