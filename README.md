@@ -1,4 +1,4 @@
-# Here Kin Ting Github Page 🤗
+# Welcome my Page 🤗
 
 - Nick name: Kathy
 - Statue: University student ✍️
