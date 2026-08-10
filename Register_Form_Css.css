@@ -1,0 +1,88 @@
+/*Assingmnet 1 s235065 Huang Jianting*/
+/*Select all element*/
+*{
+    text-align: left;
+    box-sizing: border-box;
+    font-style: normal;
+}
+
+body{
+  background-color: aqua;
+}
+
+h1 {
+  text-align: center;
+}
+
+.introduce, .createAcc{
+   text-align: center; 
+
+}
+.container{
+  margin: 450px;
+  padding: 30px;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  border: 10px solid;
+}
+.registerbtn{
+  text-align: center;
+  font-size: medium;
+  width: 80%;
+  height: 50px;
+  margin-left: 45px;
+}
+#SID, #psw, #birthday{
+  font-size: small;
+  font-style: italic;
+}
+
+hr{
+    border: 1px solid #04040429;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+input{
+    border-spacing: 50px;
+    margin: 10px 5px 10px 5px;
+    
+}
+input[type=text], input[type=password], input[type=date], input[type=number] {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid red;
+}
+
+input[type=radio]{
+  /*margin-left: 20px;*/
+  margin-right:15px ;
+}
+
+b{
+  font-size: 20px;
+}
+
+.text1, .text2{
+    text-align: center;
+}
+
+.ProName{
+  margin: 10px;
+}
+
+.Option1, .Option2, .Option3, .Option4{
+  margin-right: 15px;
+  font-size: 20px;
+}
+
+.registerbtn{
+  background-color: rgb(209, 209, 209);
+  border: 0px;
+}
+
+.Checkpoint{
+  font-size: 20px;
+}
